@@ -1,6 +1,6 @@
 # Luccadex - Pokédex
 
-Este é o repositório do projeto "Luccadex", uma Pokédex online desenvolvida por Luccado.
+Este é o repositório do projeto "Luccadex", uma Pokédex online desenvolvida por Lucca.
 
 ## Visão geral do projeto
 
